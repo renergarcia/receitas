@@ -1,0 +1,1 @@
+Diretório de receitas do curso de git
